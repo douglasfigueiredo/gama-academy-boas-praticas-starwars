@@ -1,5 +1,7 @@
 # Projeto de Boas práticas feito no bootcap Hiring Coders pela Gama Academy e VTEX
 
+Clique aqui para acessar o projeto online [clique aqui](https://gama-academy-boas-praticas-starwars-nu.vercel.app/)
+
 Para iniciar o projeto:
 `git clone https://github.com/douglasfigueiredo/gama-academy-boas-praticas-starwars`
 
