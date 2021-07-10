@@ -13,6 +13,5 @@ Para iniciar em modo de desenvolvimento:
 
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
-## Créditos:
-## Professor Douglas Morais
+## Créditos: Professor Douglas Morais
 ### Github: https://github.com/mrdouglasmorais
