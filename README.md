@@ -1,8 +1,7 @@
-# Gama Academy :)
-## Template Node FullJS
+# Projeto de Boas práticas feito no bootcap Hiring Coders pela Gama Academy e VTEX
 
 Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
+`git clone https://github.com/douglasfigueiredo/gama-academy-boas-praticas-starwars`
 
 Para instalar as dependências:
 `npm i`
@@ -14,4 +13,6 @@ Para iniciar em modo de desenvolvimento:
 
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
+## Créditos:
 ## Professor Douglas Morais
+### Github: https://github.com/mrdouglasmorais
